@@ -21,10 +21,7 @@ _É um sistema front-end pronto para integrar em seu Back-end com API REST_
 
 ## Configuração do Ambiente de Desenvolvimento
 
-Siga estas etapas:
-
-Faça o download do repositório
-Em seu ambiente de desenvolvimento
+Faça o download do repositório e em seu ambiente de desenvolvimento:
 
 ```bash
 cd login-react
