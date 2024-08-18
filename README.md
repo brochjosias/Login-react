@@ -42,6 +42,5 @@ Inicie o Projeto
 npm run dev
 ```
 
-Acesse o sistema
 Clique no link fornecido no terminal para acessar.
 Assim que carregar, o sistema será exibido no seu navegador padrão.
