@@ -14,14 +14,12 @@ Registrar atividades de login e logout
 
 ## Tecnologias Utilizadas
 
-Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
-Frameworks: _React_, _react-router-dom_
-Banco de Dados: _Local Storage_
-_É um sistema front-end pronto para integrar em seu Back-end com API REST_
+- JavaScript
+- HTML
+- CSS
+- React
 
-## Configuração do Ambiente de Desenvolvimento
-
-Faça o download do repositório e em seu ambiente de desenvolvimento:
+## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
 ```bash
 cd login-react
