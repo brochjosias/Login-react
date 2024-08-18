@@ -1,26 +1,47 @@
-# Login-react
+# Login React
 
 Bem-vindo ao Login React! Este é um sistema projetado para simplificar, acompanhar e administrar a autenticação de usuários.
 
-Visão Geral: O sistema oferece uma solução abrangente para autenticação de usuários, proporcionando segurança e controle de acesso aos recursos protegidos.
+## Visão Geral
 
-Funcionalidades: Criar e gerenciar contas de usuário, realizar login seguro, registrar atividades de login e logout.
-Tecnologias Utilizadas: Linguagens de Programação: JavaScript, HTML e CSS; Frameworks: React e react-router-dom; Banco de Dados: Local Storage;
+O sistema oferece uma solução abrangente para autenticação de usuários, proporcionando segurança e controle de acesso aos recursos protegidos.
 
-É um sistema front-end pronto para integrar em seu Back-end com API REST;
+## Funcionalidades
 
-Configuração do Ambiente de Desenvolvimento, siga estas etapas:
+Criar e gerenciar contas de usuário
+Realizar login seguro
+Registrar atividades de login e logout
 
-Faça o download do repositório;
+## Tecnologias Utilizadas
 
-Em seu ambiente de desenvolvimento:
+Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
+Frameworks: _React_, _react-router-dom_
+Banco de Dados: _Local Storage_
+_É um sistema front-end pronto para integrar em seu Back-end com API REST_
 
-cd login-react;
+## Configuração do Ambiente de Desenvolvimento
 
-Instale as Dependências: npm install;
+Siga estas etapas:
 
-Inicie o Projeto: npm run dev;
+Faça o download do repositório
+Em seu ambiente de desenvolvimento
 
-Clique no link fornecido para acessar;
+```bash
+cd login-react
+```
 
-Assim que carregar aparecerá o sistema em seu navegador padrão.
+Instale as Dependências
+
+```bash
+npm install
+```
+
+Inicie o Projeto
+
+```bash
+npm run dev
+```
+
+Acesse o sistema
+Clique no link fornecido no terminal para acessar.
+Assim que carregar, o sistema será exibido no seu navegador padrão.
